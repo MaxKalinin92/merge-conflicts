@@ -1,12 +1,5 @@
 # Associations
 # comment out the urls if you do not wish to display them
-
-- organization: The Republic of Belarus's Ministry of Emergency Situations
-  role: rescuer
-  year: 2012 - 2020
-  summary: Rescuing people
-
-
 - organization: AIS Novations
   role: Trainee
   year: 2020 - Present
